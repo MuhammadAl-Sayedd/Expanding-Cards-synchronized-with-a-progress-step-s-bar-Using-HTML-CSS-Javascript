@@ -44,4 +44,4 @@ To get the project up and running follow the steps below:
 
 ### Developer
 
-**[Muhammad Al-Sayed](https://github.com/MuhammadAl-Sayedd)**
+**[Muhammad Al-Sayed]
