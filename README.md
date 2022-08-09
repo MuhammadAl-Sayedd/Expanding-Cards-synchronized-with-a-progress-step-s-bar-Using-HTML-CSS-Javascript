@@ -17,7 +17,6 @@
 The Project is a Responsive Expanding Cards page, Each Card represents a nature picture from a specefic country. the cards are resposnive to the clicking for previewing. The cards are synchronized with a progress(steps) bar to show the number of the current card. you can switch between the cards by either the cards itself or by the progress bar's buttons.
 
 ## Project Structure
->> dhhdhd
 > style.css   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Contains Page's styless
 
 > index.html    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Contains HTML code
