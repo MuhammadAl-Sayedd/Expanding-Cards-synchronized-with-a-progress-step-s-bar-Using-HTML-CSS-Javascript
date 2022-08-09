@@ -19,7 +19,6 @@ The Project is a Responsive Expanding Cards page, Each Card represents a nature 
 ## Project Structure
 
 > style.css   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Contains Page's styless
->> hdhdhddj
 
 > index.html    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Contains HTML code
 
